@@ -26,7 +26,7 @@ from telegram.constants import ParseMode
 BOT_TOKEN     = "8951400081:AAHR3jAfJVihnug47--Rh332r2cw2kCDcAQ"
 CHANNEL_ID    = "@iownscript"
 CHANNEL_URL   = "https://t.me/stuff_portal"
-DEVELOPER_URL= ""https://t.me/harshucontactbot""
+DEVELOPER_URL= "t.me/harshucontactbot"
 ADMIN_IDS     = [8416077220]   # Your Telegram user ID(s)
 # ─────────────────────────────────────────────
 
